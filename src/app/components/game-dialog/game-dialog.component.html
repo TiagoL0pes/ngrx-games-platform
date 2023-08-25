@@ -1,0 +1,60 @@
+<aside class="container">
+  <h2 mat-dialog-title>Add your favorite game infos</h2>
+
+  <form [formGroup]="form" mat-dialog-content class="container__form">
+    <mat-form-field class="container__form__field">
+      <mat-label>Name</mat-label>
+      <input
+        matInput
+        formControlName="name"
+        placeholder="Write your favorite's game name"
+      />
+      <mat-error
+        *ngIf="form.controls['name'].invalid"
+        class="container__form_error"
+      >
+        You must enter a name
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field *ngIf="isSnes">
+      <mat-label>Genre</mat-label>
+      <input
+        matInput
+        formControlName="genre"
+        placeholder="Write your favorite's game genre"
+      />
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Downloads</mat-label>
+      <input
+        matInput
+        formControlName="downloads"
+        type="number"
+        placeholder="Write the number of downloads your favorite's game"
+      />
+    </mat-form-field>
+
+    <div mat-dialog-actions class="container__form__actions">
+      <button
+        mat-raised-button
+        color="warn"
+        aria-label="Cancel"
+        (click)="onCancel()"
+      >
+        Cancel
+      </button>
+      <button
+        mat-raised-button
+        cdkFocusInitial
+        color="primary"
+        [attr.aria-label]="buttonLabel"
+        [mat-dialog-close]="data"
+        [disabled]="form.invalid"
+      >
+        {{ buttonLabel }}
+      </button>
+    </div>
+  </form>
+</aside>

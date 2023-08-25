@@ -1,0 +1,25 @@
+<aside class="container">
+  <h2 mat-dialog-title>Are you sure you want to delete this game ?</h2>
+
+  <div mat-dialog-content class="container__form">
+    <div mat-dialog-actions class="container__form__actions">
+      <button
+        mat-raised-button
+        color="warn"
+        aria-label="Cancel"
+        (click)="onCancel()"
+      >
+        Cancel
+      </button>
+      <button
+        mat-raised-button
+        cdkFocusInitial
+        color="primary"
+        aria-label="Yes, I'm sure"
+        [mat-dialog-close]="true"
+      >
+        Yes, I'm sure!
+      </button>
+    </div>
+  </div>
+</aside>

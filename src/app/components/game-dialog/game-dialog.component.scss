@@ -1,0 +1,22 @@
+.container {
+  width: 50vw;
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+
+    &__field {
+      &:first-child {
+        margin-bottom: 0.5rem;
+      }
+    }
+
+    &__actions {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 0.5rem;
+    }
+  }
+}

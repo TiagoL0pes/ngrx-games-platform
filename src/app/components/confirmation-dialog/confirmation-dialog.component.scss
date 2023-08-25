@@ -1,0 +1,16 @@
+.container {
+  width: 50vw;
+
+  &__form {
+    display: flex;
+    flex-direction: column;
+
+    &__actions {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      gap: .5rem;
+    }
+  }
+}

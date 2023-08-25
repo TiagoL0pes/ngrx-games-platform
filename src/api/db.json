@@ -1,0 +1,390 @@
+{
+  "genesis": [
+    {
+      "id": "9920f073-0724-3a7f-1bed-33c84ae2b184",
+      "name": "Aladdin",
+      "downloads": 1112503
+    },
+    {
+      "id": "b8e7af90-d477-a25f-ca2b-0f872e9fc135",
+      "name": "Altered Beast",
+      "downloads": 338929
+    },
+    {
+      "id": "7190c220-3aee-f296-61e5-543825b8d5ca",
+      "name": "Castlevania - Bloodlines",
+      "downloads": 276237
+    },
+    {
+      "id": "60b3c67b-9c0e-5afb-66e3-9a9ff74a4018",
+      "name": "Comix Zone",
+      "downloads": 615966
+    },
+    {
+      "id": "397abe8b-4c97-332e-f436-0379d8a20667",
+      "name": "Contra - Hard Corps",
+      "downloads": 619684
+    },
+    {
+      "id": "16ccc054-9c91-a293-cb79-b48e3a216527",
+      "name": "Dragon Ball Z",
+      "downloads": 1089379
+    },
+    {
+      "id": "eed4733f-a187-ac56-5bf9-dfc2c2b14adf",
+      "name": "Dragon Ball Z - Buyuu Retsuden (Japan)",
+      "downloads": 235640
+    },
+    {
+      "id": "a9c5595d-301a-dd72-214c-35be91209c35",
+      "name": "Duke Nukem 3D",
+      "downloads": 298393
+    },
+    {
+      "id": "d75fc212-5ada-754a-3d38-0a11098da623",
+      "name": "Earthworm Jim",
+      "downloads": 523392
+    },
+    {
+      "id": "94875066-fbaa-fd85-d518-88a0f84ddcbd",
+      "name": "Earthworm Jim 2",
+      "downloads": 235981
+    },
+    {
+      "id": "7a7bbb2d-e398-4c81-689e-904b8151d2e7",
+      "name": "Golden Axe",
+      "downloads": 595881
+    },
+    {
+      "id": "914e4d87-b32f-a842-2b3c-467f7f10cdf0",
+      "name": "Golden Axe 2",
+      "downloads": 338484
+    },
+    {
+      "id": "dfbd2fba-e20f-8f73-60de-810583451ff2",
+      "name": "Golden Axe III",
+      "downloads": 563991
+    },
+    {
+      "id": "12a242e7-f3c6-6b95-3556-14242e00d06b",
+      "name": "Gunstar Heroes",
+      "downloads": 338080
+    },
+    {
+      "id": "e672734c-99a0-45d6-654f-796a100b811c",
+      "name": "International Superstar Soccer Deluxe (Europe)",
+      "downloads": 266532
+    },
+    {
+      "id": "52e1499a-ae42-e0f4-1075-f0b27538a1da",
+      "name": "Jurassic Park",
+      "downloads": 268261
+    },
+    {
+      "id": "3181a434-9109-fbfe-fbe0-952e1108331d",
+      "name": "Knuckles Chaotix",
+      "downloads": 299903
+    },
+    {
+      "id": "ac81d312-6a39-abc4-96b2-33a7c59c3fe0",
+      "name": "Lion King",
+      "downloads": 647507
+    },
+    {
+      "id": "fa203e00-5d32-3801-25cd-14df4be51509",
+      "name": "Michael Jackson's Moonwalker",
+      "downloads": 769804
+    },
+    {
+      "id": "a0162ba0-7c9b-5012-7f77-3d59a6477f84",
+      "name": "Mickey Mouse - Castle of Illusion",
+      "downloads": 285451
+    },
+    {
+      "id": "25000fba-00a6-385c-61a2-b0dece0da85a",
+      "name": "Mortal Combat 5",
+      "downloads": 1174177
+    },
+    {
+      "id": "f52c4953-81e8-b909-03cd-c1f29ff625ab",
+      "name": "Mortal Kombat",
+      "downloads": 419312
+    },
+    {
+      "id": "e726ea2b-2ee6-b8e9-b29a-997dff3c06bf",
+      "name": "Mortal Kombat 2",
+      "downloads": 485846
+    },
+    {
+      "id": "0a910c66-b1e4-7e7c-3bd6-bc0972007b1e",
+      "name": "Mortal Kombat 3",
+      "downloads": 683910
+    },
+    {
+      "id": "b11b1a36-0995-2736-2f8c-806a2afb702d",
+      "name": "Revenge of Shinobi",
+      "downloads": 276937
+    },
+    {
+      "id": "98d8cb41-b38f-d72d-1913-a585064bb0bf",
+      "name": "Road Rash 3",
+      "downloads": 456461
+    },
+    {
+      "id": "fc917c0c-cf9a-e570-6cfd-95fc8329b6d7",
+      "name": "Shining Force",
+      "downloads": 216248
+    },
+    {
+      "id": "91a9de9c-73b4-60cd-9744-a0c57413c9fc",
+      "name": "Shining Force II",
+      "downloads": 237435
+    },
+    {
+      "id": "68b0690d-e2f0-341d-1091-594de2109488",
+      "name": "Shinobi III - Return of the Ninja Master",
+      "downloads": 611934
+    },
+    {
+      "id": "5e81569a-c5aa-46a1-2823-492a5a536105",
+      "name": "Sonic & Knuckles",
+      "downloads": 1059482
+    },
+    {
+      "id": "a07ee3f5-69b4-08f0-71e2-1228e9ee5f01",
+      "name": "Sonic 3D Blast",
+      "downloads": 411815
+    },
+    {
+      "id": "ce45af37-4f0c-3bf3-e260-b6b650f038ea",
+      "name": "Sonic and Knuckles & Sonic 2",
+      "downloads": 215769
+    },
+    {
+      "id": "8c2a3f49-6a90-00d1-76f1-877c3f41d3b2",
+      "name": "Sonic and Knuckles & Sonic 3",
+      "downloads": 2144445
+    },
+    {
+      "id": "b3b3ddc7-7427-3a18-2f60-a9901e86ebd9",
+      "name": "Sonic the Hedgehog",
+      "downloads": 2814281
+    },
+    {
+      "id": "4317d09a-6f12-69fb-3e71-67ed8415465b",
+      "name": "Sonic the Hedgehog 2",
+      "downloads": 2273526
+    },
+    {
+      "id": "36a26fc9-9718-ad21-974c-79008858ad11",
+      "name": "Sonic the Hedgehog 3",
+      "downloads": 1540245
+    },
+    {
+      "id": "f5ec1da3-a56f-4c94-cdfa-3e58697276c2",
+      "name": "Spider-Man & Venom - Maximum Carnage",
+      "downloads": 325272
+    },
+    {
+      "id": "7e7dbb87-ee76-e8c5-9e1d-0727fca7f5d1",
+      "name": "Street Fighter II' - Special Champion Edition",
+      "downloads": 549382
+    },
+    {
+      "id": "38a88083-be2b-8cc2-de04-38c736ecdc81",
+      "name": "Streets of Rage",
+      "downloads": 1256783
+    },
+    {
+      "id": "ece8dbbe-b5ea-782c-65bb-351d9cb22709",
+      "name": "Streets of Rage 2",
+      "downloads": 886717
+    },
+    {
+      "id": "ee5455b7-f0ff-36f4-a1c1-85bf6ebf3805",
+      "name": "Streets of Rage 3",
+      "downloads": 1004286
+    },
+    {
+      "id": "93948d11-844b-bd38-5abb-9866a5656941",
+      "name": "Sunset Riders",
+      "downloads": 375804
+    },
+    {
+      "id": "cea59d6f-5d1d-282c-4d9c-d5d9b0d02c6d",
+      "name": "Super Street Fighter II - The New Challengers",
+      "downloads": 299159
+    },
+    {
+      "id": "99b0d0c6-aa33-f05a-e9c7-4bbb889599c3",
+      "name": "Teenage Mutant Hero Turtles - The Hyperstone Heist",
+      "downloads": 641677
+    },
+    {
+      "id": "47cd0925-f8df-1b5a-c4b7-7304e22d358c",
+      "name": "Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)",
+      "downloads": 217784
+    },
+    {
+      "id": "73d105c4-b23b-ff27-924c-26d9062311f5",
+      "name": "Tiny Toon Adventures - Buster's Hidden Treasure",
+      "downloads": 532704
+    },
+    {
+      "id": "7b7258ff-2f51-e326-40d7-5171d435ceb9",
+      "name": "Toy Story",
+      "downloads": 232750
+    },
+    {
+      "id": "0f943be8-7168-7831-aa3a-3b55f044a509",
+      "name": "Ultimate Mortal Kombat 3",
+      "downloads": 1194091
+    },
+    {
+      "id": "62222021-ef40-8110-41fa-60db348c0c28",
+      "name": "X-Men 89",
+      "downloads": 264252,
+      "platform": "Genesis"
+    },
+    {
+      "id": "8aed3a3c-7da5-3c4d-5c4c-1d08bb1f4cc1",
+      "name": "X-Men 2 - Clone Wars",
+      "downloads": 290202
+    },
+    {
+      "name": "",
+      "downloads": 0,
+      "platform": "Genesis",
+      "id": "b60a1ff7-032f-1953-7e32-b04bf4a4a3d9"
+    }
+  ],
+  "snes": [
+    {
+      "id": "60d77b9e-e96e-dcd4-c58d-69a674ed5345",
+      "name": "Super Mario World",
+      "genre": "Platform",
+      "downloads": 7793471
+    },
+    {
+      "id": "1c3ff7c9-b219-4e9d-e3c3-e481e3751c42",
+      "name": "Donkey Kong Country (V1.2)",
+      "genre": "Platform",
+      "downloads": 2850608
+    },
+    {
+      "id": "300b6ba2-f034-00db-0749-27cef8f004d7",
+      "name": "Super Mario All-Stars",
+      "genre": "Platform",
+      "downloads": 2267310
+    },
+    {
+      "id": "2853f249-a2f8-fe2b-dfa8-12fc2e0ab17b",
+      "name": "Super Mario Kart",
+      "genre": "Action, Racing",
+      "downloads": 1763989
+    },
+    {
+      "id": "22282f0f-5214-0af6-6e37-ec6de22348ff",
+      "name": "Ultimate Mortal Kombat 3",
+      "genre": "Fighting",
+      "downloads": 1658639
+    },
+    {
+      "id": "34ce826b-65dc-c13d-f488-5ac6b4efd429",
+      "name": "Super Bomberman 4",
+      "genre": "Action",
+      "downloads": 1574996
+    },
+    {
+      "id": "8428e555-6ea8-530c-6a3e-3482e1f604e7",
+      "name": "Street Fighter II Turbo Fighting",
+      "genre": "Fighting",
+      "downloads": 1437679
+    },
+    {
+      "id": "57e39926-7aea-07e3-d8c4-0fa1cb418760",
+      "name": "Top Gear Racing, Sports",
+      "genre": "Racing, Sports",
+      "downloads": 1321149
+    },
+    {
+      "id": "db8e9f0d-2006-e9e0-d43f-fc0e80637dcd",
+      "name": "Legend Of Zelda, The - A Link To The Past",
+      "genre": "Role Playing",
+      "downloads": 1237366
+    },
+    {
+      "id": "8428ea68-20c3-6d1d-bd0a-194d4a4d0895",
+      "name": "Killer Instinct (V1.1)",
+      "genre": "Fighting",
+      "downloads": 1011019
+    },
+    {
+      "id": "da804b89-eac8-a84d-7321-d437ede42de7",
+      "name": "Super Mario World 2 - Yoshi's Island (V1.1)",
+      "genre": "Platform",
+      "downloads": 982004
+    },
+    {
+      "id": "c21fa2ed-9730-e2a6-955b-f3fb07c13c0d",
+      "name": "Donkey Kong Country 2-Diddys Kong Quest1.1",
+      "genre": "Platform",
+      "downloads": 916509
+    },
+    {
+      "id": "17431f82-c63a-5bfc-c462-8093cb7651d9",
+      "name": "Super Mario All-Stars + Super Mario World",
+      "genre": "Platform",
+      "downloads": 867379
+    },
+    {
+      "id": "b9947f87-47ca-b32b-ff24-3cbfb9b310bd",
+      "name": "Contra III - The Alien Wars Adventure",
+      "genre": "Adventure",
+      "downloads": 800619
+    },
+    {
+      "id": "6fded58b-1f41-55bd-4f7b-97b67c6279c4",
+      "name": "Aladdin Action, Adventure",
+      "genre": "Action, Adventure",
+      "downloads": 797658
+    },
+    {
+      "id": "a300beeb-1c28-cdb0-7945-a248d6645f2d",
+      "name": "Sonic The Hedgehog (Unl)",
+      "genre": "Platform",
+      "downloads": 701551
+    },
+    {
+      "id": "43ea62f4-7e2f-4457-28e3-8f96e0b986ad",
+      "name": "Super Mario World (V1.0)",
+      "genre": "Platform",
+      "downloads": 676463
+    },
+    {
+      "id": "2cc309c2-781a-b37c-af5a-02ebbdfd0fbc",
+      "name": "Teenage Mutant Ninja Turtles IV - Turtles In Time",
+      "genre": "Beat Em Up",
+      "downloads": 656117
+    },
+    {
+      "id": "6a647011-231c-1c19-86b4-61aeccdb21dc",
+      "name": "Mega Man X 3",
+      "genre": "Action, Adventure",
+      "downloads": 649983
+    },
+    {
+      "id": "8d72153f-c7eb-5381-b9f9-7beeda6ea93c",
+      "name": "Super Bomberman 5",
+      "genre": "Action",
+      "downloads": 602782
+    },
+    {
+      "name": "Dodgeball 2",
+      "downloads": 5000000,
+      "genre": "I dont know",
+      "platform": "Snes",
+      "id": "28ed2ada-47c6-977e-ff57-209e04abc08b"
+    }
+  ]
+}
